@@ -1,35 +1,80 @@
 # Hi, I'm Gabriel 👋
 
-### Full Stack Developer | Python • FastAPI • React • TypeScript | AI Integration
+### Full Stack Developer | Python • FastAPI • React • TypeScript • AI
 
-I'm a developer focused on building practical web applications, APIs, and software integrations.
+I'm a developer focused on building **practical software, APIs, web applications, automations, and AI-powered solutions**.
 
-My current focus is Full Stack development, with a strong emphasis on Python/FastAPI on the backend, React/TypeScript on the frontend, databases, APIs, automation, and AI integration.
-
-I use AI-assisted development tools such as Claude Code to accelerate development while maintaining a hands-on approach to testing, debugging, code review, and technical validation.
+> 🚀 **Open to freelance work, collaborations, and real-world software projects.**
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm currently developing my software engineering skills through hands-on projects, building applications from backend to frontend and working with real development workflows.
+I'm a self-taught developer who learns through hands-on software engineering and building complete projects from backend to frontend.
 
-My main areas of interest are:
+My main focus is **Full Stack Development**, with a strong emphasis on:
 
-- Full Stack Web Development
-- Backend Development with Python
-- REST APIs and system integration
-- Frontend development with React and TypeScript
+- Backend development with Python and FastAPI
+- REST APIs and system integrations
+- React and TypeScript applications
 - PostgreSQL and relational databases
+- Docker and development infrastructure
+- Automated testing and code quality
 - Automation and data processing
 - Artificial Intelligence and LLM integrations
-- AI-assisted software development
 
-I'm particularly interested in building applications where traditional software engineering and AI can work together to solve practical problems.
+I enjoy taking a problem, understanding its requirements, designing a solution, implementing it, testing it, and continuously improving it.
+
+I'm particularly interested in projects where **software engineering and AI can work together to solve practical problems**.
 
 ---
 
-## Tech Stack
+## 🚀 Available for Freelance Work
+
+I'm open to projects of different sizes and scopes.
+
+### What I Can Help With
+
+**Backend & APIs**
+- Python development
+- FastAPI applications
+- REST API development
+- Authentication and authorization
+- Database integration
+- Third-party API integrations
+
+**Frontend**
+- React applications
+- TypeScript development
+- Responsive web interfaces
+- Frontend/backend integration
+
+**Automation**
+- Data processing
+- Workflow automation
+- API-based automations
+- Internal tools and scripts
+
+**AI & LLM**
+- LLM API integrations
+- AI-powered application features
+- AI automation workflows
+- Connecting AI services with existing applications
+
+**Existing Projects**
+- Bug fixing
+- Feature development
+- Refactoring
+- API improvements
+- Maintenance and technical improvements
+
+I'm flexible regarding project scope and budget, especially for opportunities that provide valuable real-world experience and the possibility of building a long-term professional relationship.
+
+**Have a project in mind? Feel free to reach out. Even small projects are welcome.**
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
 
@@ -52,115 +97,142 @@ I'm particularly interested in building applications where traditional software 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Data & Testing
+### Testing & Data
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
-## AI Integration
+## 🤖 AI-Assisted Development
 
-One of my main areas of interest is integrating AI into practical software applications.
+AI is an important part of my development workflow, but I treat it as a **development tool rather than a replacement for engineering judgment**.
 
-I'm currently working with concepts such as:
+I use AI-assisted development tools to accelerate:
 
-- LLM API integration
-- OpenAI APIs
-- Anthropic APIs
-- Prompt engineering
-- AI-powered application workflows
-- Automation using AI
-- Connecting AI services with backend applications
-- AI-assisted software development
+- Code generation and implementation
+- Debugging
+- Refactoring
+- Test generation
+- Documentation
+- Architecture exploration
+- Technical research
 
-I use tools such as **Claude Code** as development assistants, while keeping technical responsibility for understanding, testing, debugging, reviewing, and validating the resulting implementation.
+My workflow still relies on understanding, testing, reviewing, debugging, and validating the resulting software.
+
+### Development Workflow
+
+**Plan → Build → Test → Debug → Refactor → Validate**
 
 > **AI-assisted development with human technical validation.**
 
 ---
 
-## Projects
+## 📂 Projects
+
+### GHPForge — Collaborative Project Management SaaS
+
+A full-stack project management application built as a portfolio project with a production-oriented engineering approach.
+
+**Technologies:**
+
+`React` `TypeScript` `Vite` `Tailwind` `shadcn/ui` `FastAPI` `Pydantic` `SQLAlchemy` `Alembic` `PostgreSQL` `Redis` `Docker` `Pytest`
+
+The project includes authentication, onboarding, project management, membership roles, authorization boundaries, API validation, automated testing, and a Clean Architecture approach.
+
+The development process emphasizes incremental implementation, automated tests, security considerations, and technical validation.
+
+---
 
 ### Expense Tracker API
 
-A backend project developed with Python and FastAPI for managing expenses.
+A backend application developed with Python and FastAPI for managing personal expenses.
 
 **Technologies:**
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `JWT` `Argon2` `Pytest` `Docker`
 
-The project includes authentication, database persistence, API endpoints, password hashing, CORS configuration, rate limiting, and automated tests.
+The project includes authentication, database persistence, API endpoints, password hashing, CORS configuration, rate limiting, and automated testing.
 
 ---
 
 ### Full Stack Authorization Management System
 
-A full-stack application developed with a Python backend and React/TypeScript frontend.
+A full-stack application combining a Python/FastAPI backend with a React/TypeScript frontend.
 
 **Technologies:**
 
 `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Docker`
 
-The project involves authentication, APIs, database integration, business workflows, frontend development, Docker configuration, debugging, type-safety improvements, and technical validation.
+The project focuses on authentication, business workflows, database integration, frontend development, API communication, Docker configuration, debugging, type safety, and technical validation.
 
 ---
 
-## Development Approach
+## 🧪 Engineering Practices
 
-I believe AI can significantly accelerate software development when combined with solid engineering practices.
+I care about building software that is not only functional, but also understandable and maintainable.
 
-My workflow typically follows:
+My development process commonly includes:
 
-**Plan → Build → Test → Debug → Refactor → Validate**
+- Clean and organized architecture
+- Automated testing
+- Type safety
+- API validation
+- Authentication and authorization
+- Database integrity
+- Error handling
+- Code quality checks
+- Documentation
+- Continuous refactoring
 
-AI tools can accelerate implementation, but understanding the system, validating the code, and solving technical problems remain essential parts of my development process.
+I believe that getting software to work is only the beginning — understanding **why it works and being able to maintain it** matters just as much.
 
 ---
 
-## Currently Learning & Building
+## 📚 Currently Learning & Building
 
 I'm continuously improving my skills in:
 
 - Full Stack Development
 - Python & FastAPI
 - React & TypeScript
-- REST APIs
 - PostgreSQL
 - Docker
 - Automated Testing
+- Software Architecture
 - AI & LLM Integration
 - Automation
-- Software Architecture
+- Cloud technologies
 
-I'm also beginning to explore open-source contributions and opportunities to collaborate on real-world software projects.
-
----
-
-## Open Source
-
-I'm interested in contributing to projects related to:
-
-- Python
-- FastAPI
-- React
-- TypeScript
-- APIs
-- AI
-- Automation
-- Developer tools
-
-My goal is to gradually build meaningful contributions while continuing to develop my software engineering skills.
+I'm also exploring open-source contributions and opportunities to collaborate on real-world software projects.
 
 ---
 
-## Contact
+## 🌎 Open to Opportunities
 
-- GitHub: [@gabrielhp1214-lab](https://github.com/gabrielhp1214-lab)
-- 99Freelas: (https://www.99freelas.com.br/user/Ghabba)
+I'm interested in:
+
+- Freelance projects
+- Remote development opportunities
+- Collaborations
+- Open-source contributions
+- Backend and Full Stack projects
+- AI-powered applications
+- Automation projects
+
+I'm particularly interested in opportunities where I can **deliver useful software, gain real-world experience, and build lasting professional relationships**.
+
+---
+
+## 📫 Contact
+
+If you have a project, freelance opportunity, collaboration, or simply want to discuss an idea, feel free to reach out.
+
+- **GitHub:** [@gabrielhp1214-lab](https://github.com/gabrielhp1214-lab)
+- **99Freelas:** [My Profile](https://www.99freelas.com.br/user/Ghabba)
 
 ---
 
 <p align="center">
-  Building software, learning continuously, and exploring the intersection of Full Stack Development and AI.
+  <strong>Building software. Learning continuously. Solving real problems.</strong>
 </p>
